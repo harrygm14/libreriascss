@@ -1,0 +1,89 @@
+body{
+background-image: url('../img/fondo1.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover;
+
+}
+
+.callout{
+    background-color: #ccc2;
+	color: #fff;
+}
+
+.cab{
+    background-color: #1308;
+    border-bottom:1px solid #fff; 
+    color: alicebluebl;
+    
+}
+.column{
+	border:none
+}
+
+.foto1{
+    margin: 15px;
+    text-align: center;
+}
+
+.contenido{
+    text-align: justify;
+    margin: 15px;
+}
+
+.icono{
+    margin-bottom: 0px;
+	border: none
+}
+.comentario{
+    width:  100%;
+	border: none
+}
+.comentar{
+	margin:15px;
+	color:rgb(236, 235, 235);
+	font-style: italic
+}
+.user{border:dotted 0.5px;
+margin:15px}
+
+.boton{
+    width: 100%;
+}
+
+.coment{
+    display: flex;
+    flex-flow: row wrap;
+	border: none
+}
+
+.buscar{
+    border-radius: 10px;
+}
+
+.nav{
+    list-style: none;
+}
+
+
+body li a{
+    color: #fff;
+}
+
+.panel{
+    background-color: #1308;
+
+}
+
+.texto{
+    color: white;
+    text-align: justify;
+    border-right: 1px solid #fff;
+    padding: 5px 0px;
+    margin: 0;
+}
+
+a:hover{
+    color: white;
+}
+

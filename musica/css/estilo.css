@@ -1,0 +1,110 @@
+body
+{
+  background-color:	rgb(96, 168, 96);
+	color: #fff
+}
+header
+{
+  background-color: rgba(8, 28, 141, 0.637);
+}
+div.container
+{
+  background-color: rgba(8, 28, 141, 0.637);
+}
+.mynavbar
+{
+  background-color: #0005;
+  min-height: 15%;   
+}
+.mynavbar li
+{
+  text-align: center;
+}
+
+#logo
+{
+  width: 25%;
+}
+.redes-sociales
+{
+  padding-top: 6%;
+  padding-bottom: 3%;
+}
+.redes-sociales a:hover
+{
+  opacity: 0.5;
+}
+.jpg-social
+{
+  height: 40px;
+  width: 40px;
+}
+.mynavbar .nav li a:hover
+{
+  color: white;
+  background-color: #1E6667;
+  cursor: pointer;
+}
+
+.mynavbar .nav li a
+{
+  color: #ADD8E6;
+}
+
+
+
+.leftCol li:hover
+{
+  background-color: gray;
+  cursor: pointer;
+}
+
+.row .imagenM
+{
+  width: 100%;
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+.jpgCom
+{
+  width: 80px;
+  height: 80px;
+}
+.comment
+{
+  width: 100%;
+  height: 80px;
+  display: inline;
+}
+.leftCol
+{
+  padding: 5px;
+  color: black;
+}
+.leftCol li
+{
+  background-color: #F8F8FF;
+}
+.leftCol div
+{
+  margin-bottom: 5px;
+}
+article
+{
+  padding: 10px;
+}
+article .row
+{
+  padding: 5px 5px 5px 10px;
+}
+@media (min-width: 768px) 
+{
+  .topMenu
+  {
+    width: 100%;
+  }
+  .topMenu li
+  {
+    width: 16%;
+  }
+}
